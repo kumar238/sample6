@@ -1,0 +1,15 @@
+E:\Practic\sample6\bin\Debug\net6.0\sample6.exe
+E:\Practic\sample6\bin\Debug\net6.0\sample6.deps.json
+E:\Practic\sample6\bin\Debug\net6.0\sample6.runtimeconfig.json
+E:\Practic\sample6\bin\Debug\net6.0\sample6.dll
+E:\Practic\sample6\bin\Debug\net6.0\ref\sample6.dll
+E:\Practic\sample6\bin\Debug\net6.0\sample6.pdb
+E:\Practic\sample6\obj\Debug\net6.0\sample6.csproj.AssemblyReference.cache
+E:\Practic\sample6\obj\Debug\net6.0\sample6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practic\sample6\obj\Debug\net6.0\sample6.AssemblyInfoInputs.cache
+E:\Practic\sample6\obj\Debug\net6.0\sample6.AssemblyInfo.cs
+E:\Practic\sample6\obj\Debug\net6.0\sample6.csproj.CoreCompileInputs.cache
+E:\Practic\sample6\obj\Debug\net6.0\sample6.dll
+E:\Practic\sample6\obj\Debug\net6.0\ref\sample6.dll
+E:\Practic\sample6\obj\Debug\net6.0\sample6.pdb
+E:\Practic\sample6\obj\Debug\net6.0\sample6.genruntimeconfig.cache
